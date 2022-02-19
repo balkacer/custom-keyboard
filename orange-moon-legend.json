@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Orange Moon Legend",
+    "author": "blodiemoon",
+    "background": {
+      "name": "PBT Black",
+      "style": "background-image: url('/bg/plastic/pbt-black.png');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-E1xx",
+    "pcb": true
+  },
+  [
+    {
+      "c": "#ff6d1a",
+      "a": 7
+    },
+    "ESC",
+    {
+      "c": "#d9dae0",
+      "t": "#ff5b00",
+      "a": 4
+    },
+    "~\n\n\n\n\n\n\n\n\n`",
+    {
+      "c": "#a2a2a6",
+      "t": "#6b6b6b"
+    },
+    "!\n\n\n\n\n\n\n\n\n0",
+    "@\n\n\n\n\n\n\n\n\n1",
+    "#\n\n\n\n\n\n\n\n\n2",
+    "$\n\n\n\n\n\n\n\n\n3",
+    "%\n\n\n\n\n\n\n\n\n4",
+    "^\n\n\n\n\n\n\n\n\n5",
+    "&\n\n\n\n\n\n\n\n\n6",
+    "(\n\n\n\n\n\n\n\n\n7",
+    ")\n\n\n\n\n\n\n\n\n8",
+    "=\n\n\n\n\n\n\n\n\n9",
+    {
+      "c": "#d9dae0",
+      "t": "#ff5b00"
+    },
+    "-\n\n\n\n\n\n\n\n\n+",
+    "/\n\n\n\n\n\n\n\n\n*",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "a": 7,
+      "w": 2
+    },
+    "BACKSPACE"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "TAB",
+    {
+      "c": "#d9dae0",
+      "t": "#ff5b00",
+      "a": 4
+    },
+    "Q\n\n\n\n\n\n\n\n\nq",
+    "W\n\n\n\n\n\n\n\n\nw",
+    "E\n\n\n\n\n\n\n\n\ne",
+    "R\n\n\n\n\n\n\n\n\nr",
+    "T\n\n\n\n\n\n\n\n\nt",
+    "Y\n\n\n\n\n\n\n\n\ny",
+    "U\n\n\n\n\n\n\n\n\nu",
+    "I\n\n\n\n\n\n\n\n\ni",
+    "O\n\n\n\n\n\n\n\n\no",
+    "P\n\n\n\n\n\n\n\n\np",
+    "¨\n\n\n\n\n\n\n\n\n´",
+    "{\n\n\n\n\n\n\n\n\n[",
+    "}\n\n\n\n\n\n\n\n\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\n\n\n\n\n\n\n\n\\"
+  ],
+  [
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "a": 7,
+      "w": 1.75
+    },
+    "CAPS",
+    {
+      "c": "#d9dae0",
+      "t": "#ff5b00",
+      "a": 4
+    },
+    "A\n\n\n\n\n\n\n\n\na",
+    "S\n\n\n\n\n\n\n\n\ns",
+    "D\n\n\n\n\n\n\n\n\nd",
+    {
+      "n": true
+    },
+    "F\n\n\n\n\n\n\n\n\nf",
+    "G\n\n\n\n\n\n\n\n\ng",
+    "H\n\n\n\n\n\n\n\n\nh",
+    {
+      "n": true
+    },
+    "J\n\n\n\n\n\n\n\n\nj",
+    "K\n\n\n\n\n\n\n\n\nk",
+    "L\n\n\n\n\n\n\n\n\nl",
+    "Ñ\n\n\n\n\n\n\n\n\nñ",
+    ":\n\n\n\n\n\n\n\n\n;",
+    "\"\n\n\n\n\n\n\n\n\n'",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "a": 7,
+      "w": 2.25
+    },
+    "ENTER"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "SHIFT",
+    {
+      "c": "#d9dae0",
+      "t": "#ff5b00",
+      "a": 4
+    },
+    "Z\n\n\n\n\n\n\n\n\nz",
+    "X\n\n\n\n\n\n\n\n\nx",
+    "C\n\n\n\n\n\n\n\n\nc",
+    "V\n\n\n\n\n\n\n\n\nv",
+    "B\n\n\n\n\n\n\n\n\nb",
+    "N\n\n\n\n\n\n\n\n\nn",
+    "M\n\n\n\n\n\n\n\n\nm",
+    "<\n\n\n\n\n\n\n\n\n,",
+    ">\n\n\n\n\n\n\n\n\n.",
+    "?\n\n\n\n\n\n\n\n\n/",
+    "¡\n\n\n\n\n\n\n\n\n¿",
+    {
+      "c": "#a2a2a6",
+      "t": "#000000",
+      "a": 7
+    },
+    "↑",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "w": 2
+    },
+    "SHIFT"
+  ],
+  [
+    "FN",
+    {
+      "w": 1.25
+    },
+    "CTRL",
+    "OS",
+    {
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "c": "#ff6d1a",
+      "t": "#000000",
+      "w": 6.25
+    },
+    "SPACE",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff",
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "c": "#a2a2a6",
+      "t": "#000000"
+    },
+    "←",
+    "↓",
+    "→",
+    {
+      "c": "#2b2c2e",
+      "t": "#ffffff"
+    },
+    "CTRL"
+  ]
+]

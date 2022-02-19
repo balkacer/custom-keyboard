@@ -2,7 +2,13 @@
 
 This is a custom keyboard for the streamer [blodiemoon](https://www.twitch.tv/blodiemoon).
 
-![Orange Moon Design](orange-moon.svg)
+## Design
+
+![Orange Moon Design](orange-moon.png)
+
+## Legends
+
+![Orange Moon Design](orange-moon-legend.png)
 
 ## How to use
 
