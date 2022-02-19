@@ -19,13 +19,13 @@
     "ESC",
     {
       "c": "#d9dae0",
-      "t": "#ff5b00",
+      "t": "#ff5b00\n\n\n\n\n\n\n\n\n#000000",
       "a": 4
     },
     "~\n\n\n\n\n\n\n\n\n`",
     {
       "c": "#a2a2a6",
-      "t": "#6b6b6b"
+      "t": "#6b6b6b\n\n\n\n\n\n\n\n\n#000000"
     },
     "!\n\n\n\n\n\n\n\n\n0",
     "@\n\n\n\n\n\n\n\n\n1",
@@ -39,7 +39,7 @@
     "=\n\n\n\n\n\n\n\n\n9",
     {
       "c": "#d9dae0",
-      "t": "#ff5b00"
+      "t": "#ff5b00\n\n\n\n\n\n\n\n\n#000000"
     },
     "-\n\n\n\n\n\n\n\n\n+",
     "/\n\n\n\n\n\n\n\n\n*",
@@ -58,7 +58,7 @@
     "TAB",
     {
       "c": "#d9dae0",
-      "t": "#ff5b00",
+      "t": "#ff5b00\n\n\n\n\n\n\n\n\n#000000",
       "a": 4
     },
     "Q\n\n\n\n\n\n\n\n\nq",
@@ -89,7 +89,7 @@
     "CAPS",
     {
       "c": "#d9dae0",
-      "t": "#ff5b00",
+      "t": "#ff5b00\n\n\n\n\n\n\n\n\n#000000",
       "a": 4
     },
     "A\n\n\n\n\n\n\n\n\na",
@@ -125,7 +125,7 @@
     "SHIFT",
     {
       "c": "#d9dae0",
-      "t": "#ff5b00",
+      "t": "#ff5b00\n\n\n\n\n\n\n\n\n#000000",
       "a": 4
     },
     "Z\n\n\n\n\n\n\n\n\nz",
@@ -158,7 +158,7 @@
       "w": 1.25
     },
     "CTRL",
-    "OS",
+    "WIN",
     {
       "w": 1.25
     },
