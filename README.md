@@ -14,16 +14,8 @@ This is a custom keyboard for the streamer [blodiemoon](https://www.twitch.tv/bl
 
 ![Orange Moon Design](plate.svg)
 
-## How to use
-
-The keyboard has its own custom commands. To use them, you need to press the `Fn + Win` + the key you want to use.
-
-## List of commands
-
-- `Fn + Win + O`: Open the Orange Moon UI Panel.
-
 ## External links
 
 - [Twitch](https://www.twitch.tv/blodiemoon)
-- [Keyboard Editable Preset](http://www.keyboard-layout-editor.com/#/gists/af4cfa8196742579c82e6b50de0093ab)
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 - [Auto Hotkey](https://www.autohotkey.com/)
