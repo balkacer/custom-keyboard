@@ -4,11 +4,15 @@ This is a custom keyboard for the streamer [blodiemoon](https://www.twitch.tv/bl
 
 ## Design
 
-![Orange Moon Design](orange-moon.png)
+![Orange Moon Design](orange-moon.svg)
 
 ## Legends
 
 ![Orange Moon Design](orange-moon-legend.png)
+
+## Plate Layout
+
+![Orange Moon Design](plate.svg)
 
 ## How to use
 
